@@ -3,7 +3,7 @@ function som(a, b) {
 	return a + b;
 }
 
-som(2,4)
+som(2, 4);
 
 console.log("hello");
 
@@ -14,3 +14,4 @@ function getEvenValue(array) {
 }
 
 console.log(getEvenValue(data));
+console.log("test");
