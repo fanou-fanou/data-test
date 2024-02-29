@@ -4,3 +4,5 @@ function som(a,b){
 }
 
 som(2,4)
+
+console.log("hello");
